@@ -1,2 +1,2 @@
-# appointment_challenge
-The final challenge for artificial intelligence course @ Roma Tre university
+# Welcome to final challenge repository
+### by Enrico Verdolotti
